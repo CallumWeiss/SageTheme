@@ -9,7 +9,7 @@ Fully re-designed stock iOS and App store icons.
 
 **Can I request a icon?**
 
-If you would like to submit a icon request to be featured in the next update click here
+If you would like to submit a icon request to be featured in the next update [Click Here](http://logocal.co.uk/sagerequest)
 
 **Want more updates?**
 
